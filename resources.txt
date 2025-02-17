@@ -1,0 +1,15 @@
+pandas documentation: https://pandas.pydata.org/docs/
+
+seaborn documentation: https://seaborn.pydata.org/
+
+matplotlib documentation: https://matplotlib.org/stable/index.html
+
+and those by mr moamen abdelkay
+
+https://www.udacity.com/blog/2024/12/the-ultimate-pandas-cheat-sheet-essential-functions-and-tricks-for-data-manipulation.html 
+
+https://www.udacity.com/blog/2025/01/how-to-clean-data-for-machine-learning-best-practices-and-tools.html 
+
+https://www.udacity.com/blog/2025/02/exploratory-data-analysis-eda-why-its-crucial-for-data-science.html
+
+and some use of chatgpt not to make the code but to understand methods insted of doc sometimes
