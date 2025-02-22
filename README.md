@@ -1,4 +1,3 @@
-![wew](https://github.com/user-attachments/assets/2d3a1234-a804-4526-8c4e-ca881ca00135)# Investigate-a-Dataset-TMDB-Movie
 ## Overview
 For my graduation project, I conducted a data analysis on movie datasets, focusing on strategies to maximize revenue. The project includes visualizations that highlight key insights and identify patterns in the data.
 
