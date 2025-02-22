@@ -1,4 +1,4 @@
-# Investigate-a-Dataset-TMDB-Movie
+![wew](https://github.com/user-attachments/assets/2d3a1234-a804-4526-8c4e-ca881ca00135)# Investigate-a-Dataset-TMDB-Movie
 ## Overview
 For my graduation project, I conducted a data analysis on movie datasets, focusing on strategies to maximize revenue. The project includes visualizations that highlight key insights and identify patterns in the data.
 
@@ -14,3 +14,8 @@ For my graduation project, I conducted a data analysis on movie datasets, focusi
 The project includes various charts and graphs to illustrate findings, such as:
 - Revenue distribution by genre
 - Correlation between budget and revenue
+
+
+## Proof of finishing the project.
+
+![proof](https://github.com/user-attachments/assets/689af54a-9dca-4dcb-adc7-2020c8e40bdb)
